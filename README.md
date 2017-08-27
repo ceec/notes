@@ -2,7 +2,7 @@
 
 #fonts
 
-Using a tiff in a website:
+Using a True Type Fonts .ttf in CSS:
 
 https://stackoverflow.com/questions/4267415/using-true-type-fonts-in-web-applications
 
