@@ -21,3 +21,12 @@ h1, h2, h3 { font-family: 'Tagesschrift', 'Georgia', serif; }
 media queries
 
 https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width
+
+
+
+Laravel!
+
+
+I've fixed this before!
+
+SQLSTATE[42000]: Syntax error or access violation: 1115 Unknown character set: 'utf8mb4' (SQL: select * from `documents`)
