@@ -30,3 +30,11 @@ Laravel!
 I've fixed this before!
 
 SQLSTATE[42000]: Syntax error or access violation: 1115 Unknown character set: 'utf8mb4' (SQL: select * from `documents`)
+
+
+#mySQL timestamp vs datetime
+
+https://stackoverflow.com/questions/409286/should-i-use-field-datetime-or-timestamp
+
+timestamp is an exact point in time local timezone -> converted to UTC
+datetime is just a date and a time, will change depending on timezone
